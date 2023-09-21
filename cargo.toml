@@ -1,0 +1,7 @@
+[workspace]
+members = [
+ 
+     "crates/rustcms61850bin",
+     "crates/localtest",
+     
+]

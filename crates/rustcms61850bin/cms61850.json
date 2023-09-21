@@ -1,0 +1,23 @@
+{
+    "con_cfg": {
+        "ping_test_interval_sec": 60,
+        "close_count_when_no_ping_pong": 2
+    },
+    "con_mgr_cfg": {
+        "max_connections": 100,
+        "no_secru_port": 8102,
+        "no_secru_port_enable": true,
+        "secru_port": 9102,
+        "same_ip_only_one_link": true,
+        "ping_test_interval_sec": 60,
+        "cert_file_path": "server.crt",
+        "apdu_len": 65535,
+        "asdu_len": 5242880
+    },
+    "wd_cfg": {
+        "close_watchdog": false,
+        "wd_filename": "/dev/wd",
+        "reboot_when_no_con": false,
+        "reboot_when_no_con_sec": 300
+    }
+}

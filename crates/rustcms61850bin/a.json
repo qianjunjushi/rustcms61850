@@ -1,0 +1,1 @@
+{"con_cfg":{"ping_test_interval_sec":0,"close_count_when_no_ping_pong":0},"con_mgr_cfg":{"max_connections":0,"no_secru_port":0,"no_secru_port_enable":false,"secru_port":0,"same_ip_only_one_link":false,"ping_test_interval_sec":0,"cert_file_path":"","apdu_len":0,"asdu_len":0},"wd_cfg":{"close_watchdog":false,"wd_filename":"","reboot_when_no_con":false,"reboot_when_no_con_sec":0}}

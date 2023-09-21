@@ -1,0 +1,25 @@
+  {
+    "Desc_scl_filename":"icd 名称",
+    "scl_filename":"sisco_sample.cid",
+    
+
+    "Desc_ied_name":"IED name",
+    "ied_name":"E1Q1SB1",
+
+    "Desc_access_point_name":"访问点名称",
+    "access_point_name":"S1",
+
+    "Desc_report_scan_rate":"报告扫描速率 ms 整数 --Report scan rate in milliseconds",
+    "report_scan_rate": 2,
+
+    "Desc_BRCBBufferSize":" 缓冲报告缓冲区大小 整数 ---Buffered report buffer size.",
+    "brcbbuffersize": 10000,
+
+    "Desc_LogScanRateMs":"日志扫描速率 ms 整数---Log scan rate in milliseconds",
+    "logscanratems":2 ,
+
+    "Desc_LogMaxEntries":"最大日志条目数 整数",
+    "logmaxentries": 1000
+  }
+  
+ 
